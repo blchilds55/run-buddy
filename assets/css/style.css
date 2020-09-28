@@ -93,6 +93,11 @@ section {
     font-size: 24px;
 }
 
+.hero h1 {
+    text-align: left;
+    color: red;
+}
+
 .hero-form p{
     margin: 5px 0 15px 0;
 }
