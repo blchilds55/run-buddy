@@ -13,4 +13,4 @@ https://blchilds55.github.io/run-buddy/
 ## Contribution
 Made with love by blchilds55
 
-### &copy 2019 Run Buddy, Inc
+### &#1092019 Run Buddy, Inc
